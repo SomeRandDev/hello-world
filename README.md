@@ -1,2 +1,5 @@
 # hello-world
-This is a "hello-world" repository
+
+Hi Everybody!
+
+SomeRandDev here, I like programming in Java and right now I'm learning C.
